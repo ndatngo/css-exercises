@@ -1,1 +1,18 @@
+.odd {
+    background-color: rgb(255, 71, 76);
+    font-family: 'Veranda', 'DejaVu Sans', sans-serif;
+}
 /* Add CSS Styling */
+div#second {
+    color: rgb(76, 76, 210);
+    font-size: 36px;
+}
+
+.size24 {
+    font-size: 24px;
+}
+
+div#fourth {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
