@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+/* parent-type .child-class; can also have parent class selector and child type selector */
+
+div .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
